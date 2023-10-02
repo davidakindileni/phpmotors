@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" media="screen" href="css/small.css">
-    <link rel="stylesheet" media="screen" href="css/large.css">
+    <link rel="stylesheet" media="screen" href="/phpmotors/css/small.css">
+    <link rel="stylesheet" media="screen" href="/phpmotors/css/large.css">
     <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap" rel="stylesheet">
     <title>Home | PHP Motors</title>
 </head>
